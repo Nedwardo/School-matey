@@ -50,7 +50,7 @@ N={0,1,2,3...}
 **examples**: 
 
 
-<img src="Images\Realnumbers.jpg"></img>
+<img src="Images/Realnumbers.jpg"></img>
 
 #### - Ordinal numbers
 
