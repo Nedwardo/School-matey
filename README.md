@@ -11,14 +11,10 @@ https://bournetocode.com/projects/GCSE_Practical_Programming/pages/Git-Cheat-She
 ### 3.5.1 Number systems
 + natural numbers
 
-Natural numbers are numbers that are used for counting (1,2,3,4,5)
-
-
 **definition**: those are numbers used for counting.
 
 **examples**: 0,1,2,3,4
 ``` 
-this is an area for code or examples etc
 
 Counting uses natural number
 A set of natural number can expressed as:
@@ -27,7 +23,18 @@ N={0,1,2,3...}
 ```
 
 + integer numbers
+
+**definition**: a number that isn't fractional. A whole number.
+
+**examples**: 1, 6, 9, are integer numbers. 3.14, 3.7, 7.8 are not integer numbers.
+
+
 + rational numbers
+
+**definition**: a number that can be written as a ratio. It can be written as a fraction in which both the numerator and denominator are whole numbers.
+
+**examples**: 8/1, 9/3, 7/16
+
 + irrational numbers
 + real numbers
 + ordinal numbers
