@@ -47,10 +47,10 @@ N={0,1,2,3...}
 
 **definition**: A number which describes the numerical position of an object.
 
-**examples"": 1st, 2nd, 3rd, 4th
+**examples**: 1st, 2nd, 3rd, 4th
 
 
-#### - Real numbers
+#### - Real numbers 
 
 **definition**: Numbers that can be found on the number line. This includes both rational and irrational numbers.
 
