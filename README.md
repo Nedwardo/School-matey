@@ -9,7 +9,7 @@ https://bournetocode.com/projects/GCSE_Practical_Programming/pages/Git-Cheat-She
 ## 3.5 Fundamentals of data representation
 
 ### 3.5.1 Number systems
-##### natural numbers
+#### - Natural numbers
 
 **definition**: those are numbers used for counting.
 
@@ -22,7 +22,7 @@ N={0,1,2,3...}
 
 ```
 
-#### integer numbers
+#### - Integer numbers
 
 **definition**: a number that isn't fractional. A whole number.
 
@@ -35,9 +35,9 @@ N={0,1,2,3...}
 
 **examples**: 8/1, 9/3, 7/16
 
-+ irrational numbers
-+ real numbers
-+ ordinal numbers
+#### - Irrational numbers
+#### - Real numbers
+#### - Ordinal numbers
 
 ### 3.5.2 Number bases
 + base 2: those are binary numbers. example: 1010<sub>2</sub>. See [this site](https://bournetocode.com/projects/AQA_AS_Theory/pages/3-5.html) for more infomation
