@@ -9,7 +9,7 @@ https://bournetocode.com/projects/GCSE_Practical_Programming/pages/Git-Cheat-She
 ## 3.5 Fundamentals of data representation
 
 ### 3.5.1 Number systems
-+ natural numbers
+##### natural numbers
 
 **definition**: those are numbers used for counting.
 
@@ -22,7 +22,7 @@ N={0,1,2,3...}
 
 ```
 
-+ integer numbers
+#### integer numbers
 
 **definition**: a number that isn't fractional. A whole number.
 
