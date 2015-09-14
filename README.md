@@ -43,18 +43,22 @@ N={0,1,2,3...}
 **examples**: Pi, Sqrt(2)
 
 
+#### - Ordinal numbers
+
+**definition**: A number which describes the numerical position of an object.
+
+**examples"": 1st, 2nd, 3rd, 4th
+
+
 #### - Real numbers
 
 **definition**: Numbers that can be found on the number line. This includes both rational and irrational numbers.
 
 **examples**: 
 
-
 <img src="Images/Realnumbers.jpg"></img>
 
-#### - Ordinal numbers
 
-**definition**: A number which describes the numerical position of an object
 
 ### 3.5.2 Number bases
 + base 2: those are binary numbers. example: 1010<sub>2</sub>. See [this site](https://bournetocode.com/projects/AQA_AS_Theory/pages/3-5.html) for more infomation
