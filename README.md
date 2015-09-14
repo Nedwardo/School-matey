@@ -29,14 +29,29 @@ N={0,1,2,3...}
 **examples**: 1, 6, 9, are integer numbers. 3.14, 3.7, 7.8 are not integer numbers.
 
 
-+ rational numbers
+#### - Rational numbers
 
 **definition**: a number that can be written as a ratio. It can be written as a fraction in which both the numerator and denominator are whole numbers.
 
 **examples**: 8/1, 9/3, 7/16
 
+
 #### - Irrational numbers
+
+**definition**: any real number than can't be expressed as a ratio of integers.
+
+**examples**: Pi, Sqrt(2)
+
+
 #### - Real numbers
+
+**definition**: Numbers that can be found on the number line. This includes both rational and irrational numbers.
+
+**examples**: 
+
+
+<img src="http://scimathmn.org/stemtc/sites/default/files/images/frameworks/math/8.1.1A/image131.jpg"></img>
+
 #### - Ordinal numbers
 
 ### 3.5.2 Number bases
