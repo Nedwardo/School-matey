@@ -11,6 +11,9 @@ https://bournetocode.com/projects/GCSE_Practical_Programming/pages/Git-Cheat-She
 ### 3.5.1 Number systems
 + natural numbers
 
+Natural numbers are numbers that are used for counting (1,2,3,4,5)
+
+
 **definition**: those are numbers used for counting.
 
 **examples**: 0,1,2,3,4
@@ -42,6 +45,7 @@ N={0,1,2,3...}
 ### 3.5.4 Binary number system
 
 #### unsigned binary
+
 #### unsigned binary arithmetics
 #### signed binary with two's complement
 #### fixed point form binary representation of numbers with fractional parts
