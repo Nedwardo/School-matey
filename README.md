@@ -50,9 +50,11 @@ N={0,1,2,3...}
 **examples**: 
 
 
-<img src="http://scimathmn.org/stemtc/sites/default/files/images/frameworks/math/8.1.1A/image131.jpg"></img>
+<img src="Images\Realnumbers.jpg"></img>
 
 #### - Ordinal numbers
+
+**definition**: A number which describes the numerical position of an object
 
 ### 3.5.2 Number bases
 + base 2: those are binary numbers. example: 1010<sub>2</sub>. See [this site](https://bournetocode.com/projects/AQA_AS_Theory/pages/3-5.html) for more infomation
