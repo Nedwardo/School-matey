@@ -62,9 +62,16 @@ N={0,1,2,3...}
 
 ### 3.5.2 Number bases
 + base 2: those are binary numbers. example: 1010<sub>2</sub>. See [this site](https://bournetocode.com/projects/AQA_AS_Theory/pages/3-5.html) for more infomation
-+ base 10
-+ base 16
-+ conversion between denary, binary and hex
++ base 10: The normal numbers. 1-9.
++ base 16: Hexidecimal. Numbers 1-15. Numbers 10-15 are represented by letters A-F.
+
+<img src="Images/HexidecimalTable.jpg"></img>
+
++ conversion between denary, binary and hex: view these links
+
+[Converting to binary](http://www.bbc.co.uk/education/guides/zwsbwmn/revision/7)
+
+[Converting to hexadecimal](http://www.bbc.co.uk/education/guides/zp73wmn/revision/3)
 
 ### 3.5.3 Units of information
 + bit and bytes
