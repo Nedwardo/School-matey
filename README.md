@@ -76,11 +76,11 @@ N={0,1,2,3...}
 ### 3.5.3 Units of information
 #### - Bit and bytes
 
-	A bit is a single 1 or 0. Bytes are 8 bits.
+A bit is a single 1 or 0. Bytes are 8 bits.
 
-#### - Units of kilo, kibi etc
+#### - Units of kilo, kibi etc AAAAAAAAAAAAAAAAAAAAAAAA
 
-	Kilobytes are 1000 bytes, and kibibytes are 1024 bytes. 
+<img src="Images/Bytes.jpg"></img>
 
 ### 3.5.4 Binary number system
 
